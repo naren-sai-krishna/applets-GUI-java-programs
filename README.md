@@ -3,7 +3,7 @@
 ##### This repo consists of some intresting java programs and applets.  
 ###### SOME OF THEM ARE:  
 # 1.  REPUBLIC DAY APPLET:
-
+## Click on the image to watch demo
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9ady7bm0Y5c/0.jpg)](https://www.youtube.com/watch?v=9ady7bm0Y5c)  
 
 # 2.  CALCULATOR APPLET:   
