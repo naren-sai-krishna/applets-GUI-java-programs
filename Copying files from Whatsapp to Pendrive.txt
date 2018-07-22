@@ -1,0 +1,12 @@
+1.Connect Phone and Laptop with USB Cable
+2.Pull notification panel on phone and click on "USB FOR FILE TRANSFER"
+3.Then Select "TRANSFER FILES"
+4.Open ThisPc icon on desktop
+5.Click on OnePlus A5000
+6.Click on Internal Shared Storage
+7.Click on Whatsapp
+8.Click on Media
+9.Click on Whatsapp documents for pdfs and Whatsapp Images for images
+10.Select the files and right click and select copy
+11.Open pendrive 
+12.Right Click  and select paste
